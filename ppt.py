@@ -38,3 +38,4 @@ else:
 
 
 print("Esta es la prueba para el pull at home")
+print("Push and pull test completed")
